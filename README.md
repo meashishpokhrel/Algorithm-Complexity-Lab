@@ -1,2 +1,2 @@
-# Algorithm-Complexity-JS
-Excerise Algorithms for COMP 314
+# Algorithm-Complexity
+This contains all the lab Assignments for the Algorithm and Complexity (COMP 314)
